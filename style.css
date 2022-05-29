@@ -1,0 +1,18 @@
+.headphone-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 200px;
+  height: 200px;
+}
+.headphone-container .headphones {
+  width: 100%;
+}
+.headphone-container .sound-waves-canvas {
+  position: absolute;
+  top: 76%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50%;
+}
